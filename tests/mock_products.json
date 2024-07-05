@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Cosmos ",
+        "description": "село Урлу-Аспак, Лесхозная улица, 20",
+        "price": 2000
+    },
+    {
+        "name": "Resort",
+        "description": "Республика Алтай",
+        "price": 5000
+    },
+    {
+        "name": "Collection",
+        "description": "Республика Алтай",
+        "price": 400
+    }
+]

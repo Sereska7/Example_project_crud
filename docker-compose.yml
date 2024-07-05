@@ -1,0 +1,9 @@
+services:
+  pg:
+    image: postgres
+    environment:
+      POSTGRES_DB: Example_project_crud
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: wer255678
+    ports:
+      - "5432:5432"
